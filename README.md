@@ -17,7 +17,7 @@ The champions we are, yes?<br/>
 I want to be a cowboy - this is non-yodafiable<br/>
 
 --------------------------------------------------
-Contents in the text file: <br/>
+<b>Contents in the text file:</b> <br/>
 Rudra is amazing<br/>
 We will rock you<br/>
 Astrology is not a valid way of thinking<br/>
