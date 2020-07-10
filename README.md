@@ -17,9 +17,9 @@ The champions we are, yes?<br/>
 I want to be a cowboy - this is non-yodafiable<br/>
 
 --------------------------------------------------
-Contents in the text file: 
-Rudra is amazing
-We will rock you
-Astrology is not a valid way of thinking
-We are the champions
-I want to be a cowboy
+Contents in the text file: <br/>
+Rudra is amazing<br/>
+We will rock you<br/>
+Astrology is not a valid way of thinking<br/>
+We are the champions<br/>
+I want to be a cowboy<br/>
